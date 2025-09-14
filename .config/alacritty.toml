@@ -1,0 +1,20 @@
+ [env]
+  2 TERM = "xterm-256color"
+  3
+  4 [window]
+  5 padding.x = 12
+  6 padding.y = 12
+  7
+  8 dynamic_padding = true
+  9
+ 10 option_as_alt = "Both"
+ 11
+ 12 [font]
+ 13
+ 14 size = 20
+ 15
+ 16
+ 17 [general]
+ 18 import = [
+ 19     "~/.config/alacritty/themes/themes/dark_plus.toml"
+ 20 ]
